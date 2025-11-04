@@ -4,6 +4,9 @@
 - Josue Neiculeo
 - Cristobal Baeriswyl 
 
+# GitHub URL
+https://github.com/Solobored/.NET-Project
+
 ##  Meeting Summary
 Our team met to discuss the upcoming .NET Blazor group project.   
 Each member shared insights from the week's tutorials and learning activities.  
