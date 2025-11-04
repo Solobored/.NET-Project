@@ -2,6 +2,7 @@
 
 ## 👥 Team Members
 - Josue Neiculeo
+- Cristobal Baeriswyl 
 
 ##  Meeting Summary
 Our team met to discuss the upcoming .NET Blazor group project.   
